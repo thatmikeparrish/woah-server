@@ -1,0 +1,255 @@
+{
+    "users": [
+      {
+        "accountName": "raccscout",
+        "email": "1",
+        "password": "1",
+        "id": 1
+      },
+      {
+        "accountName": "mellven",
+        "email": "2",
+        "password": "2",
+        "id": 2
+      },
+      {
+        "accountName": "test",
+        "email": "3",
+        "password": "3",
+        "id": 3
+      }
+    ],
+    "characters": [
+      {
+        "name": "Raccscout",
+        "raceID": 2,
+        "classID": 2,
+        "level": 1,
+        "userID": 1,
+        "id": 1
+      },
+      {
+        "name": "Raccshotsdf",
+        "raceID": 5,
+        "classID": 8,
+        "level": 10,
+        "userID": 1,
+        "id": 2
+      },
+      {
+        "name": "Deathracc",
+        "raceID": 3,
+        "classID": 4,
+        "level": 1,
+        "userID": 1,
+        "id": 3
+      },
+      {
+        "name": "Stabracc",
+        "raceID": 1,
+        "classID": 7,
+        "level": 1,
+        "userID": 1,
+        "id": 4
+      },
+      {
+        "name": "Orcsnap",
+        "raceID": 4,
+        "classID": 3,
+        "level": 1,
+        "userID": 1,
+        "id": 7
+      },
+      {
+        "name": "Oogabooga",
+        "raceID": 6,
+        "classID": 6,
+        "level": 1,
+        "userID": 1,
+        "id": 9
+      },
+      {
+        "name": "Expiredbeef",
+        "raceID": 8,
+        "classID": 4,
+        "level": 150,
+        "userID": 1,
+        "id": 11
+      },
+      {
+        "name": "Zappyboi",
+        "raceID": 6,
+        "classID": 6,
+        "level": 1,
+        "userID": 2,
+        "id": 12
+      },
+      {
+        "name": "alfkj",
+        "raceID": 4,
+        "classID": 7,
+        "level": 1,
+        "userID": 2,
+        "id": 13
+      }
+    ],
+    "races": [
+      {
+        "id": 1,
+        "name": "High Elf",
+        "className": "highElf",
+        "icon": "./img/highElf.jpg",
+        "description": "WORDS",
+        "backgroundImage": "highElfZone.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dark Elf",
+        "className": "darkElf",
+        "icon": "./img/darkElf.jpg",
+        "description": "WORDS",
+        "backgroundImage": "darkElfZone.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Human",
+        "className": "human",
+        "icon": "../img/human.jpg",
+        "description": "WORDS",
+        "backgroundImage": "humanZone.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Orc",
+        "className": "orc",
+        "icon": "./img/orc.jpg",
+        "description": "WORDS",
+        "backgroundImage": "orcZone.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dwarf",
+        "className": "dwarf",
+        "icon": "./img/dwarf.jpg",
+        "description": "WORDS",
+        "backgroundImage": "dwarfZone.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Troll",
+        "className": "troll",
+        "icon": "./img/troll.jpg",
+        "description": "WORDS",
+        "backgroundImage": "trollZone.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Gnome",
+        "className": "gnome",
+        "icon": "./img/gnome.jpg",
+        "description": "WORDS",
+        "backgroundImage": "gnomeZone.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Minotaur",
+        "className": "minotaur",
+        "icon": "./img/minotaur.jpg",
+        "description": "WORDS",
+        "backgroundImage": "minotaurZone.jpg"
+      }
+    ],
+    "classes": [
+      {
+        "id": 1,
+        "name": "Gladiator",
+        "className": "gladiator",
+        "icon": "./img/gladiator.jpg",
+        "description": "WORDS",
+        "classColor": "#C79C6E"
+      },
+      {
+        "id": 2,
+        "name": "Crusader",
+        "className": "crusader",
+        "icon": "./img/crusader.jpg",
+        "description": "WORDS",
+        "classColor": "#F58CBA"
+      },
+      {
+        "id": 3,
+        "name": "Cleric",
+        "className": "cleric",
+        "icon": "./img/cleric.jpg",
+        "description": "WORDS",
+        "classColor": "#FFFFFF"
+      },
+      {
+        "id": 4,
+        "name": "Necromancer",
+        "className": "necromancer",
+        "icon": "./img/necromancer.jpg",
+        "description": "WORDS",
+        "classColor": "#C41F3B"
+      },
+      {
+        "id": 5,
+        "name": "Sorcerer",
+        "className": "sorcerer",
+        "icon": "./img/sorcerer.jpg",
+        "description": "WORDS",
+        "classColor": "#40C7EB"
+      },
+      {
+        "id": 6,
+        "name": "Witch Doctor",
+        "className": "witchDoctor",
+        "icon": "./img/witchDoctor.jpg",
+        "description": "WORDS",
+        "classColor": "#0070DE"
+      },
+      {
+        "id": 7,
+        "name": "Pirate",
+        "className": "pirate",
+        "icon": "./img/pirate.jpg",
+        "description": "WORDS",
+        "classColor": "#FFF569"
+      },
+      {
+        "id": 8,
+        "name": "Ranger",
+        "className": "ranger",
+        "icon": "./img/ranger.jpg",
+        "description": "WORDS",
+        "classColor": "#ABD473"
+      }
+    ],
+    "difficulty": [
+      {
+        "id": 1,
+        "name": "easy",
+        "description": "WORDS"
+      },
+      {
+        "id": 2,
+        "name": "normal",
+        "description": "WORDS"
+      },
+      {
+        "id": 3,
+        "name": "hard",
+        "description": "WORDS"
+      },
+      {
+        "id": 4,
+        "name": "heroic",
+        "description": "WORDS"
+      },
+      {
+        "id": 5,
+        "name": "mythic",
+        "description": "WORDS"
+      }
+    ]
+  }
